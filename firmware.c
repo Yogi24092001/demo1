@@ -1,1 +1,2 @@
 Initial Firmware
+Bugfix applied
