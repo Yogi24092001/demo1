@@ -1,0 +1,81 @@
+Pressure Transmitter: - 
+4500PSI
+
+- Wika S-20 Pressure Transmitter Cost - ₹32,580.78
+Official website: https://www.wika.com/en-us/s_20.WIKA?utm_source=chatgpt.com
+
+- *Danfoss MBS 3000 Pressure Transmitter
+Cost-refered site: https://instrukart.com/danfoss-mbs-3000-pressure-transmitter/
+Official website: https://www.danfoss.com/en-in/products/sen/sensors-and-transmitters/industrial-pressure-transmitters/mbs-3000-series/#tab-overview
+ 
+
+- *ifm PT5400 Pressure Transmitter
+Official website: https://www.ifm.com/in/en/product/PT5400
+
+
+350PSI
+
+- *ifm PT5303 Pressure Transmitter
+Official- https://www.ifm.com/in/en/product/PT5303
+
+- *ifm PU5603 Pressure Transmitter
+Official- https://www.ifm.com/in/en/product/PU5603?tab=details
+///////////////////////////////////////////////////////////////////
+LPG cylinder: -
+Flame King YSN201b 20 Pound Steel Propane Tank Cylinder
+	- https://www.desertcart.in/products/395857030
+Flame King YSN-301 30 Pound Steel Propane Tank Cylinder
+	- https://www.desertcart.in/products/295740480-flame-king-ysn-301-30-pound-steel-propane-tank-cylinder
+//////////////////////////////////////////////////////////////////
+Bunsen Burner: -
+HUMBOLDT H-5885 Cost -https://www.coleparmer.in/i/humboldt-h-5885-accuflame-bunsen-burner-adjustable-with-threaded-needle-valve-natural-gas/3613000
+- https://www.humboldtmfg.com/adjustable-micro-bunsen-burner-adjustable-gas-valve.html
+
+Eisco Labs NEXTGEN Bunsen Burner
+- https://www.amazon.in/Eisco-StabiliBase-Anti-Tip-Stabilizer-Adjustment/dp/B00QMQWYKU/ref=sr_1_9?dib=eyJ2IjoiMSJ9.5V-DCmj-6FK5wULXoDdh23Sq6na5zMxzpD8GTxi7Oyb9dWYL9MgRY4-l01nuam1YLXuEoxOi4kvDxKqS6cG8pK0q3RXUHKQaj2al6_KCJdeQL1bNIeOEwgh7Um7A6nRvmI_07aTrThXoFA6Iv1Zw4h0yhYN90Asa_e78_O6ZlIGFdoRNGBxd_Vb0ls9SKdFB1NY6IlDWXaL8Ar63jgc8V-80tTV8qN_Xh5NAfy8ZQGTfxmtL5eXdMciRQwyDRtst6VRIFwk8kNX3iFb9wAQNSHKzPBeMQMHVYmAedXUI7D9HWiMwLeDJdculiU-LHABEnJ4Q5vS378-xRZsSz4ECbbL39AfbYHTu4qnCaZXYcn5LjpZ631qROwvr3MmqTOzLRekL6MEOlkX0Y0ttpZaEU8bIoG89y7JnN7d8YTzvKpAIJx4xgb4Ku5tU5PU-UVUU.8P3lkLle1SMnVa5GhjQoEcseY3WfiYhQsNbots6cyOI&dib_tag=se&keywords=eisco+bunsen+burner&qid=1741812976&s=industrial&sr=1-9-catcorr
+
+Mini Bunsen burner: -
+HUMBOLDT H-5810
+Cost - https://www.coleparmer.in/i/humboldt-h-5810-accuflame-bunsen-burner-micro-burner-natural-gas/3613030?searchterm=H-5810
+- https://www.humboldtmfg.com/adjustable-micro-bunsen-burner-adjustable-gas-valve.html
+//////////////////////////////////////////////////////////////////
+
+Water Level Sensor: -
+For understanding:
+https://www.gemssensors.com/product/liquid-level-sensors/how-to-choose-a-liquid-level-switch
+Reference:
+ https://www.amazon.in/ELLICO-Automatic-Controller-Indicator-Sensors/dp/B07QTW7TF6
+
+- https://www.amazon.in/Stainless-steel-sensors-Controller-Indicator/dp/B07C94L6H6
+- https://mivan.co.in/product/273?srsltid=AfmBOopqM20mbJWODUOirtEGn4S0RgQOyPtu-oLJSEBiSXaEgbcbpcNv
+//////////////////////////////////////////////////////////////////
+
+Gas level sensor: - 
+- Modifying these tanks to add a pressure port is not recommended due to safety regulations and potential hazards.
+- Look for ASME-Certified Propane Tanks with Access Ports
+
+External Ultrasonic Sensors, Weight-Based Measurement Systems(load sensor).
+
+- https://mopeka.com/product/pro200/
+
+- 	
+Wika E-10 Explosion Proof Pressure Transmitter
+
+///////////////////////////////////////////////////////////////////
+
+ Temperature sensor: -
+Endress+Hauser TMT80 Temperature Transmitter
+- https://in.rsdelivers.com/product/endresshauser/tmt80-1628/115/endresshauser-tmt80-temperature-transmitter-pt100/2886582
+
+
+
+
+
+
+
+
+
+
+
+
+
